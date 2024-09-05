@@ -2,7 +2,7 @@
 ## Date:
 
 ## AIM:
-To develop a simple webserver to display the configuration details of your laptop.
+To develop a simple webserver to display the configuration details of my laptop.
 
 ## DESIGN STEPS:
 ### Step 1: 
