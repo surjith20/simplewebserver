@@ -21,6 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -102,6 +103,7 @@ Testing the webserver.
 </table>
 </body>
 </html>
+```
 
 ## OUTPUT:
 
